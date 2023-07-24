@@ -1,23 +1,28 @@
 {
-  "name": "Spiked's modpack",
-  "version_number": "1.0.7",
-  "website_url": "https://github.com/thunderstore-io",
-  "description": "A modpack that I made to sync mods with my friends quicker.",
-  "dependencies": [
-    "XAngelMoonX-CR-2.3.3"
-    "Pykess-PCE-2.7.11"
-    "XAngelMoonX-CM-1.4.3"
-    "willis81808-CardsPlus-1.8.12"
-    "Ascyst-SetRounds-1.2.4"
-    "Pykess-Pick_N_Cards-0.2.6"
-    "BPP_Team-BPP-3.0.1"
-    "HatchetDaddy-HDC-1.2.7"
-    "Root-Root_Cards-1.3.12"
-    "willis81808-DamageIndicators-0.0.3"
-    "Penial-Infoholic-1.1.0"
-    "willis81808-Arcana-1.9.5"
-    "willuwontu-WillsWackyCards-1.11.20"
-    "Sp1kycring-SPM-1.0.7"
-    "HelltoHeck-HalltoHeckMaps-1.3.1"
-  ]
+    "name": "Spikedmodpack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "mod pack for the bois",
+    "dependencies": [
+        "XAngelMoonX-CR-2.3.3",
+        "Pykess-PCE-2.7.11",
+        "BossSloth-BSC-2.2.3",
+        "XAngelMoonX-CM-1.4.3",
+        "willis81808-CardsPlus-1.8.12",
+        "Ascyst-SetRounds-1.2.4",
+        "Pykess-Pick_N_Cards-0.2.6",
+        "BudsCards-BudsCards-1.1.4",
+        "Keys-KeysCards-0.7.15",
+        "Team_EGC-EGC-1.1.5",
+        "BPP_Team-BPP-3.0.1",
+        "HatchetDaddy-HDC-1.2.7",
+        "Root-Root_Cards-1.3.12",
+        "willis81808-DamageIndicators-0.0.3",
+        "Penial-Infoholic-1.1.0",
+        "Root-MapShffuler-1.0.0",
+        "willis81808-Arcana-1.9.5",
+        "willuwontu-WillsWackyCards-1.11.20",
+        "HelltoHeck-HalltoHeckMaps-1.3.1",
+        "Sp1kycring-SPM-1.1.0"
+    ]
 }
