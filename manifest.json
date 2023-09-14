@@ -1,8 +1,8 @@
 {
     "name": "Spikedmodpack",
-    "version_number": "1.0.0",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/thunderstore-io",
-    "description": "mod pack for the bois",
+    "description": "mod pack for the bois (updated to reduce updates after install, making it go smoother)",
     "dependencies": [
         "XAngelMoonX-CR-2.4.6",
         "Pykess-PCE-2.7.11",
