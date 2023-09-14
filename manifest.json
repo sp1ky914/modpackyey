@@ -1,6 +1,6 @@
 {
     "name": "Spikedmodpack",
-    "version_number": "1.1.0",
+    "version_number": "1.1.1",
     "website_url": "https://github.com/thunderstore-io",
     "description": "mod pack for the bois (updated to reduce updates after install, making it go smoother)",
     "dependencies": [
