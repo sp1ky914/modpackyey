@@ -2,7 +2,7 @@
     "name": "Spikedmodpack",
     "version_number": "1.1.1",
     "website_url": "https://github.com/thunderstore-io",
-    "description": "mod pack for the bois (updated to reduce updates after install, making it go smoother)",
+    "description": "mod pack for the bois (removed some things that were likely causing issues)",
     "dependencies": [
         "XAngelMoonX-CR-2.4.6",
         "Pykess-PCE-2.7.11",
@@ -18,8 +18,6 @@
         "HatchetDaddy-HDC-1.2.7",
         "Root-Root_Cards-1.4.5",
         "willis81808-DamageIndicators-0.0.3",
-        "Penial-Infoholic-2.0.2",
-        "Root-MapShffuler-1.0.0",
         "willis81808-Arcana-1.9.5",
         "willuwontu-WillsWackyCards-1.11.22",
         "HelltoHeck-HalltoHeckMaps-1.3.1",
