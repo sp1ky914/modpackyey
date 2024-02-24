@@ -2,7 +2,7 @@
     "name": "Spikedmodpack",
     "version_number": "1.1.2",
     "website_url": "https://github.com/thunderstore-io",
-    "description": "Modpack designed to install the versions of mods BEFORE the update that broke them all. If you download this mod, DO NOT click update all. (this is a devnote telling you that I am currently troubleshooting this to see if it works)",
+    "description": "Failsafe modpack for me and the boys, basically if you used a depot downloader this is guaranteed to work, so long as you don't click update all.",
     "dependencies": [
         "BepInEx-BepInExPack_ROUNDS-5.4.1900",
         "willis81808-MMHook-1.0.0",
