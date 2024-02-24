@@ -1,6 +1,6 @@
 {
-    "name": "legacy mod pack",
-    "version_number": "1.1.1",
+    "name": "Spikedmodpack",
+    "version_number": "1.1.2",
     "website_url": "https://github.com/thunderstore-io",
     "description": "Modpack designed to install the versions of mods BEFORE the update that broke them all. If you download this mod, DO NOT click update all. (this is a devnote telling you that I am currently troubleshooting this to see if it works)",
     "dependencies": [
