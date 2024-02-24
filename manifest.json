@@ -1,6 +1,6 @@
 {
     "name": "Spikedmodpack",
-    "version_number": "1.1.2",
+    "version_number": "2.0.0",
     "website_url": "https://github.com/thunderstore-io",
     "description": "Failsafe modpack for me and the boys, basically if you used a depot downloader this is guaranteed to work, so long as you don't click update all.",
     "dependencies": [
